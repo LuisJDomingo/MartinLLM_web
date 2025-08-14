@@ -42,6 +42,14 @@ Para actualizar el enlace de descarga:
 
 ## 🌐 Despliegue en GitHub Pages
 
+### ⚠️ Prerrequisito: Instalar Dependencias
+
+Antes de intentar cualquier método de despliegue, es fundamental instalar todas las dependencias del proyecto. Abre tu terminal en la carpeta raíz del proyecto y ejecuta este comando (solo necesitas hacerlo una vez):
+
+```bash
+npm install
+```
+
 ### Opción 1: Despliegue Automático (Recomendado)
 
 1. **Sube el proyecto a GitHub**:
@@ -117,4 +125,3 @@ Si encuentras algún problema durante el despliegue:
 4. Confirma que GitHub Pages esté habilitado en la configuración del repositorio
 
 ¡Tu página web está lista para ser desplegada y comenzar a generar leads para Martin LLM!
-

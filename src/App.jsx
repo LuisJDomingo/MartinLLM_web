@@ -11,7 +11,7 @@ import appScreenshot from './assets/images/app-screenshot.png';
 
 // --- CONFIGURACIÓN DEL ENLACE DE DESCARGA ---
 // Reemplaza 'TU_ID_DE_ARCHIVO_AQUI' con el ID de tu archivo de Google Drive
-const GOOGLE_DRIVE_DOWNLOAD_URL = "https://drive.google.com/file/d/TU_ID_DE_ARCHIVO_AQUI/view?usp=sharing";
+const GOOGLE_DRIVE_DOWNLOAD_URL = "https://drive.google.com/file/d/1JQxTJwxyYn_pD712laRt2ffYWrzpT5mA/view?usp=drive_link";
 
 const App = () => {
   return (
